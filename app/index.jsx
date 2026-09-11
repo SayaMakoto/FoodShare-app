@@ -1,6 +1,14 @@
-import { Redirect } from "expo-router";
+import React, { Component } from 'react'
+import { Text, View } from 'react-native'
 
-export default function Index() {
-  // Điểm vào app: bắt đầu từ Màn hình 1 (Start flow)
-  return <Redirect href="/start/1" />;
+export class lab01 extends Component {
+  render() {
+    return (
+      <View>
+        <Text> textInComponent </Text>
+      </View>
+    )
+  }
 }
+
+export default lab01

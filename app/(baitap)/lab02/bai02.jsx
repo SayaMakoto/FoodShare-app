@@ -20,7 +20,7 @@ const Bai02 = () => {
 
   return (
     <ImageBackground
-      source={require("../../assets/background.jpg")}
+      source={require("../../../assets/avatar.jpg")}
       style={styles.container}
     >
       <Text style={styles.title}>ĐĂNG NHẬP</Text>

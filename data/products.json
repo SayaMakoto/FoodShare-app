@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun basic cổ tròn",
+    "image": "https://picsum.photos/seed/product1/400/400",
+    "price": 377000
+  },
+  {
+    "id": 2,
+    "name": "Quần jeans slim fit nam",
+    "image": "https://picsum.photos/seed/product2/400/400",
+    "price": 107000
+  },
+  {
+    "id": 3,
+    "name": "Giày sneaker trắng",
+    "image": "https://picsum.photos/seed/product3/400/400",
+    "price": 62000
+  },
+  {
+    "id": 4,
+    "name": "Túi tote vải canvas",
+    "image": "https://picsum.photos/seed/product4/400/400",
+    "price": 429000
+  },
+  {
+    "id": 5,
+    "name": "Đồng hồ thông minh Sport",
+    "image": "https://picsum.photos/seed/product5/400/400",
+    "price": 190000
+  },
+  {
+    "id": 6,
+    "name": "Tai nghe bluetooth không dây",
+    "image": "https://picsum.photos/seed/product6/400/400",
+    "price": 175000
+  },
+  {
+    "id": 7,
+    "name": "Balo laptop 15 inch",
+    "image": "https://picsum.photos/seed/product7/400/400",
+    "price": 164000
+  },
+  {
+    "id": 8,
+    "name": "Ốp lưng điện thoại silicon",
+    "image": "https://picsum.photos/seed/product8/400/400",
+    "price": 121000
+  },
+  {
+    "id": 9,
+    "name": "Cáp sạc USB-C 2m",
+    "image": "https://picsum.photos/seed/product9/400/400",
+    "price": 427000
+  },
+  {
+    "id": 10,
+    "name": "Bàn phím cơ gaming RGB",
+    "image": "https://picsum.photos/seed/product10/400/400",
+    "price": 309000
+  },
+  {
+    "id": 11,
+    "name": "Chuột không dây Wireless",
+    "image": "https://picsum.photos/seed/product11/400/400",
+    "price": 1485000
+  },
+  {
+    "id": 12,
+    "name": "Màn hình máy tính 24 inch",
+    "image": "https://picsum.photos/seed/product12/400/400",
+    "price": 1616000
+  },
+  {
+    "id": 13,
+    "name": "Webcam HD 1080p",
+    "image": "https://picsum.photos/seed/product13/400/400",
+    "price": 1927000
+  },
+  {
+    "id": 14,
+    "name": "Loa Bluetooth mini",
+    "image": "https://picsum.photos/seed/product14/400/400",
+    "price": 1216000
+  },
+  {
+    "id": 15,
+    "name": "Pin dự phòng 10000mAh",
+    "image": "https://picsum.photos/seed/product15/400/400",
+    "price": 278000
+  },
+  {
+    "id": 16,
+    "name": "Kính mắt chống ánh sáng xanh",
+    "image": "https://picsum.photos/seed/product16/400/400",
+    "price": 1309000
+  },
+  {
+    "id": 17,
+    "name": "Kem dưỡng da mặt SPF50",
+    "image": "https://picsum.photos/seed/product17/400/400",
+    "price": 964000
+  },
+  {
+    "id": 18,
+    "name": "Sữa rửa mặt dịu nhẹ",
+    "image": "https://picsum.photos/seed/product18/400/400",
+    "price": 165000
+  },
+  {
+    "id": 19,
+    "name": "Son dưỡng môi vitamin E",
+    "image": "https://picsum.photos/seed/product19/400/400",
+    "price": 161000
+  },
+  {
+    "id": 20,
+    "name": "Nước hoa unisex 50ml",
+    "image": "https://picsum.photos/seed/product20/400/400",
+    "price": 271000
+  },
+  {
+    "id": 21,
+    "name": "Bình nước giữ nhiệt 500ml",
+    "image": "https://picsum.photos/seed/product21/400/400",
+    "price": 527000
+  },
+  {
+    "id": 22,
+    "name": "Hộp đựng cơm inox 3 tầng",
+    "image": "https://picsum.photos/seed/product22/400/400",
+    "price": 556000
+  },
+  {
+    "id": 23,
+    "name": "Máy pha cà phê mini",
+    "image": "https://picsum.photos/seed/product23/400/400",
+    "price": 1114000
+  },
+  {
+    "id": 24,
+    "name": "Bộ dao kéo nhà bếp",
+    "image": "https://picsum.photos/seed/product24/400/400",
+    "price": 1312000
+  },
+  {
+    "id": 25,
+    "name": "Nồi chiên không dầu 4L",
+    "image": "https://picsum.photos/seed/product25/400/400",
+    "price": 134000
+  },
+  {
+    "id": 26,
+    "name": "Máy xay sinh tố cầm tay",
+    "image": "https://picsum.photos/seed/product26/400/400",
+    "price": 1229000
+  },
+  {
+    "id": 27,
+    "name": "Chảo chống dính ceramic",
+    "image": "https://picsum.photos/seed/product27/400/400",
+    "price": 487000
+  },
+  {
+    "id": 28,
+    "name": "Bình lọc nước RO mini",
+    "image": "https://picsum.photos/seed/product28/400/400",
+    "price": 1410000
+  },
+  {
+    "id": 29,
+    "name": "Đèn bàn LED cảm ứng",
+    "image": "https://picsum.photos/seed/product29/400/400",
+    "price": 1196000
+  },
+  {
+    "id": 30,
+    "name": "Gối ngủ chống đau cổ",
+    "image": "https://picsum.photos/seed/product30/400/400",
+    "price": 479000
+  },
+  {
+    "id": 31,
+    "name": "Máy hút bụi cầm tay",
+    "image": "https://picsum.photos/seed/product31/400/400",
+    "price": 275000
+  },
+  {
+    "id": 32,
+    "name": "Quạt để bàn mini USB",
+    "image": "https://picsum.photos/seed/product32/400/400",
+    "price": 509000
+  },
+  {
+    "id": 33,
+    "name": "Máy tạo độ ẩm không khí",
+    "image": "https://picsum.photos/seed/product33/400/400",
+    "price": 653000
+  },
+  {
+    "id": 34,
+    "name": "Đèn ngủ thay đổi màu sắc",
+    "image": "https://picsum.photos/seed/product34/400/400",
+    "price": 334000
+  },
+  {
+    "id": 35,
+    "name": "Móc treo tường không đục lỗ",
+    "image": "https://picsum.photos/seed/product35/400/400",
+    "price": 56000
+  },
+  {
+    "id": 36,
+    "name": "Kệ đầu giường gỗ tự nhiên",
+    "image": "https://picsum.photos/seed/product36/400/400",
+    "price": 213000
+  },
+  {
+    "id": 37,
+    "name": "Gương trang điểm có đèn LED",
+    "image": "https://picsum.photos/seed/product37/400/400",
+    "price": 764000
+  },
+  {
+    "id": 38,
+    "name": "Tủ đựng giày xếp gọn",
+    "image": "https://picsum.photos/seed/product38/400/400",
+    "price": 482000
+  },
+  {
+    "id": 39,
+    "name": "Thảm yoga chống trơn",
+    "image": "https://picsum.photos/seed/product39/400/400",
+    "price": 398000
+  },
+  {
+    "id": 40,
+    "name": "Dây nhảy thể thao có đếm số",
+    "image": "https://picsum.photos/seed/product40/400/400",
+    "price": 334000
+  },
+  {
+    "id": 41,
+    "name": "Bộ tạ tay 5kg",
+    "image": "https://picsum.photos/seed/product41/400/400",
+    "price": 209000
+  },
+  {
+    "id": 42,
+    "name": "Vòng lắc eo giảm mỡ bụng",
+    "image": "https://picsum.photos/seed/product42/400/400",
+    "price": 270000
+  },
+  {
+    "id": 43,
+    "name": "Băng quấn cổ tay thể thao",
+    "image": "https://picsum.photos/seed/product43/400/400",
+    "price": 394000
+  },
+  {
+    "id": 44,
+    "name": "Bình protein shaker 700ml",
+    "image": "https://picsum.photos/seed/product44/400/400",
+    "price": 154000
+  },
+  {
+    "id": 45,
+    "name": "Giày chạy bộ đệm khí",
+    "image": "https://picsum.photos/seed/product45/400/400",
+    "price": 269000
+  },
+  {
+    "id": 46,
+    "name": "Quần short thể thao nam",
+    "image": "https://picsum.photos/seed/product46/400/400",
+    "price": 858000
+  },
+  {
+    "id": 47,
+    "name": "Áo khoác gió nhẹ nữ",
+    "image": "https://picsum.photos/seed/product47/400/400",
+    "price": 278000
+  },
+  {
+    "id": 48,
+    "name": "Mũ lưỡi trai thêu logo",
+    "image": "https://picsum.photos/seed/product48/400/400",
+    "price": 815000
+  },
+  {
+    "id": 49,
+    "name": "Khẩu trang vải kháng khuẩn",
+    "image": "https://picsum.photos/seed/product49/400/400",
+    "price": 784000
+  },
+  {
+    "id": 50,
+    "name": "Ví da nam gập đôi",
+    "image": "https://picsum.photos/seed/product50/400/400",
+    "price": 621000
+  },
+  {
+    "id": 51,
+    "name": "Thắt lưng da bò cao cấp",
+    "image": "https://picsum.photos/seed/product51/400/400",
+    "price": 168000
+  },
+  {
+    "id": 52,
+    "name": "Đồng hồ cơ dây da nam",
+    "image": "https://picsum.photos/seed/product52/400/400",
+    "price": 1020000
+  },
+  {
+    "id": 53,
+    "name": "Vòng tay bạc 925",
+    "image": "https://picsum.photos/seed/product53/400/400",
+    "price": 1178000
+  },
+  {
+    "id": 54,
+    "name": "Dây chuyền vàng 10K",
+    "image": "https://picsum.photos/seed/product54/400/400",
+    "price": 335000
+  },
+  {
+    "id": 55,
+    "name": "Nhẫn bạc khắc tên",
+    "image": "https://picsum.photos/seed/product55/400/400",
+    "price": 855000
+  },
+  {
+    "id": 56,
+    "name": "Bông tai ngọc trai nữ",
+    "image": "https://picsum.photos/seed/product56/400/400",
+    "price": 241000
+  },
+  {
+    "id": 57,
+    "name": "Kính mát UV400 unisex",
+    "image": "https://picsum.photos/seed/product57/400/400",
+    "price": 680000
+  },
+  {
+    "id": 58,
+    "name": "Nón bucket thêu hoa",
+    "image": "https://picsum.photos/seed/product58/400/400",
+    "price": 820000
+  },
+  {
+    "id": 59,
+    "name": "Túi đeo chéo mini nữ",
+    "image": "https://picsum.photos/seed/product59/400/400",
+    "price": 473000
+  },
+  {
+    "id": 60,
+    "name": "Balo du lịch 40L chống nước",
+    "image": "https://picsum.photos/seed/product60/400/400",
+    "price": 484000
+  },
+  {
+    "id": 61,
+    "name": "Vali kéo 24 inch nhựa ABS",
+    "image": "https://picsum.photos/seed/product61/400/400",
+    "price": 387000
+  },
+  {
+    "id": 62,
+    "name": "Túi du lịch đựng mỹ phẩm",
+    "image": "https://picsum.photos/seed/product62/400/400",
+    "price": 2908000
+  },
+  {
+    "id": 63,
+    "name": "Gối cổ hình chữ U du lịch",
+    "image": "https://picsum.photos/seed/product63/400/400",
+    "price": 1133000
+  },
+  {
+    "id": 64,
+    "name": "Ổ cắm điện đa năng du lịch",
+    "image": "https://picsum.photos/seed/product64/400/400",
+    "price": 1385000
+  },
+  {
+    "id": 65,
+    "name": "Túi ngủ siêu nhẹ 1.2kg",
+    "image": "https://picsum.photos/seed/product65/400/400",
+    "price": 526000
+  },
+  {
+    "id": 66,
+    "name": "Đèn pin cắm trại LED",
+    "image": "https://picsum.photos/seed/product66/400/400",
+    "price": 1153000
+  },
+  {
+    "id": 67,
+    "name": "Lều dã ngoại 2 người",
+    "image": "https://picsum.photos/seed/product67/400/400",
+    "price": 613000
+  },
+  {
+    "id": 68,
+    "name": "Dao đa năng dã ngoại",
+    "image": "https://picsum.photos/seed/product68/400/400",
+    "price": 1756000
+  },
+  {
+    "id": 69,
+    "name": "Bếp gas mini du lịch",
+    "image": "https://picsum.photos/seed/product69/400/400",
+    "price": 1338000
+  },
+  {
+    "id": 70,
+    "name": "Bộ chén đũa inox picnic",
+    "image": "https://picsum.photos/seed/product70/400/400",
+    "price": 2057000
+  },
+  {
+    "id": 71,
+    "name": "Sách tô màu người lớn",
+    "image": "https://picsum.photos/seed/product71/400/400",
+    "price": 2803000
+  },
+  {
+    "id": 72,
+    "name": "Bộ màu vẽ chuyên nghiệp 48 màu",
+    "image": "https://picsum.photos/seed/product72/400/400",
+    "price": 1694000
+  },
+  {
+    "id": 73,
+    "name": "Canvas vẽ tranh sơn dầu 40x60",
+    "image": "https://picsum.photos/seed/product73/400/400",
+    "price": 866000
+  },
+  {
+    "id": 74,
+    "name": "Bút calligraphy ngòi mềm",
+    "image": "https://picsum.photos/seed/product74/400/400",
+    "price": 1716000
+  },
+  {
+    "id": 75,
+    "name": "Sổ tay bullet journal A5",
+    "image": "https://picsum.photos/seed/product75/400/400",
+    "price": 2960000
+  },
+  {
+    "id": 76,
+    "name": "Set sticker trang trí sổ tay",
+    "image": "https://picsum.photos/seed/product76/400/400",
+    "price": 1766000
+  },
+  {
+    "id": 77,
+    "name": "Bảng vẽ điện tử cảm ứng",
+    "image": "https://picsum.photos/seed/product77/400/400",
+    "price": 2237000
+  },
+  {
+    "id": 78,
+    "name": "Đàn ukulele gỗ 21 inch",
+    "image": "https://picsum.photos/seed/product78/400/400",
+    "price": 634000
+  },
+  {
+    "id": 79,
+    "name": "Micro thu âm USB condenser",
+    "image": "https://picsum.photos/seed/product79/400/400",
+    "price": 1451000
+  },
+  {
+    "id": 80,
+    "name": "Giá đỡ điện thoại livestream",
+    "image": "https://picsum.photos/seed/product80/400/400",
+    "price": 4425000
+  },
+  {
+    "id": 81,
+    "name": "Đèn ring light 26cm",
+    "image": "https://picsum.photos/seed/product81/400/400",
+    "price": 2055000
+  },
+  {
+    "id": 82,
+    "name": "Tripod chân máy ảnh nhôm",
+    "image": "https://picsum.photos/seed/product82/400/400",
+    "price": 1388000
+  },
+  {
+    "id": 83,
+    "name": "Thẻ nhớ MicroSD 128GB",
+    "image": "https://picsum.photos/seed/product83/400/400",
+    "price": 3836000
+  },
+  {
+    "id": 84,
+    "name": "Ổ cứng SSD di động 256GB",
+    "image": "https://picsum.photos/seed/product84/400/400",
+    "price": 3158000
+  },
+  {
+    "id": 85,
+    "name": "Hub USB-C 7 in 1",
+    "image": "https://picsum.photos/seed/product85/400/400",
+    "price": 2261000
+  },
+  {
+    "id": 86,
+    "name": "Laptop stand nhôm tản nhiệt",
+    "image": "https://picsum.photos/seed/product86/400/400",
+    "price": 4612000
+  },
+  {
+    "id": 87,
+    "name": "Miếng lót chuột gaming XL",
+    "image": "https://picsum.photos/seed/product87/400/400",
+    "price": 1849000
+  },
+  {
+    "id": 88,
+    "name": "Kẹp giữ sách đọc một tay",
+    "image": "https://picsum.photos/seed/product88/400/400",
+    "price": 2706000
+  },
+  {
+    "id": 89,
+    "name": "Đèn học chống cận LED",
+    "image": "https://picsum.photos/seed/product89/400/400",
+    "price": 508000
+  },
+  {
+    "id": 90,
+    "name": "Máy tính bỏ túi khoa học",
+    "image": "https://picsum.photos/seed/product90/400/400",
+    "price": 1926000
+  },
+  {
+    "id": 91,
+    "name": "Bộ dụng cụ vẽ kỹ thuật",
+    "image": "https://picsum.photos/seed/product91/400/400",
+    "price": 312000
+  },
+  {
+    "id": 92,
+    "name": "Sạc không dây 15W Qi",
+    "image": "https://picsum.photos/seed/product92/400/400",
+    "price": 3447000
+  },
+  {
+    "id": 93,
+    "name": "Router Wifi 6 mesh",
+    "image": "https://picsum.photos/seed/product93/400/400",
+    "price": 1442000
+  },
+  {
+    "id": 94,
+    "name": "Camera IP an ninh 4K",
+    "image": "https://picsum.photos/seed/product94/400/400",
+    "price": 1793000
+  },
+  {
+    "id": 95,
+    "name": "Ổ điện thông minh WiFi",
+    "image": "https://picsum.photos/seed/product95/400/400",
+    "price": 1246000
+  },
+  {
+    "id": 96,
+    "name": "Bóng đèn thông minh RGB E27",
+    "image": "https://picsum.photos/seed/product96/400/400",
+    "price": 421000
+  },
+  {
+    "id": 97,
+    "name": "Cân sức khỏe thông minh Bluetooth",
+    "image": "https://picsum.photos/seed/product97/400/400",
+    "price": 1014000
+  },
+  {
+    "id": 98,
+    "name": "Máy đo huyết áp điện tử",
+    "image": "https://picsum.photos/seed/product98/400/400",
+    "price": 3890000
+  },
+  {
+    "id": 99,
+    "name": "Nhiệt kế hồng ngoại không tiếp xúc",
+    "image": "https://picsum.photos/seed/product99/400/400",
+    "price": 2473000
+  },
+  {
+    "id": 100,
+    "name": "Máy massage cổ vai gáy",
+    "image": "https://picsum.photos/seed/product100/400/400",
+    "price": 3739000
+  }
+]

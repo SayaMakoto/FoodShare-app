@@ -7,7 +7,7 @@ export class lab01 extends Component {
       <View style={styles.container}>
         <View style={styles.header}>
           <Image
-            source={require("../../assets/avatar.jpg")}
+            source={require("../../../assets/avatar.jpg")}
             style={styles.avatar}
           />
         </View>
@@ -65,20 +65,21 @@ const styles = StyleSheet.create({
 
   body: {
     backgroundColor: "#f1f1f1",
-    flex: 8,  
+    flex: 8,
     paddingTop: 80,
-    paddingHorizontal: 10
+    paddingHorizontal: 10,
   },
 
   row: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    marginBottom: 20
-  }, 
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginBottom: 20,
+  },
+
   col: {
     fontSize: 18,
-    fontWeight: 500
-  }
+    fontWeight: "500",
+  },
 });
 
 export default lab01;

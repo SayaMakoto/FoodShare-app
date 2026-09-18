@@ -1,0 +1,394 @@
+[
+  {
+    "title": "CCQ2411A",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22A0001",
+        "hovaten": "Vũ Công Long",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22A0002",
+        "hovaten": "Phạm Công Tuấn",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22A0003",
+        "hovaten": "Hoàng Đức Hào",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22A0004",
+        "hovaten": "Bùi Ngọc Nhi",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22A0005",
+        "hovaten": "Phạm Đức Bình",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22A0006",
+        "hovaten": "Đỗ Thanh Ngân",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22A0007",
+        "hovaten": "Lý Đức Đạt",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22A0008",
+        "hovaten": "Phạm Phương Mai",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22A0009",
+        "hovaten": "Lê Lan Vy",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22A0010",
+        "hovaten": "Ngô Trung Nam",
+        "gioitinh": "Nam"
+      }
+    ]
+  },
+  {
+    "title": "CCQ2411B",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22B0011",
+        "hovaten": "Đặng Quốc Thịnh",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0012",
+        "hovaten": "Hoàng Trung Hùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0013",
+        "hovaten": "Phạm Quốc Kiên",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0014",
+        "hovaten": "Trần Bích Yến",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22B0015",
+        "hovaten": "Đỗ Thanh Hùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0016",
+        "hovaten": "Lê Công Kiên",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0017",
+        "hovaten": "Lê Bích Nhi",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22B0018",
+        "hovaten": "Bùi Hữu Hùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0019",
+        "hovaten": "Nguyễn Hữu Quân",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22B0020",
+        "hovaten": "Vũ Ngọc Diệu",
+        "gioitinh": "Nữ"
+      }
+    ]
+  },
+  {
+    "title": "CCQ2411C",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22C0021",
+        "hovaten": "Hồ Đình Tuấn",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0022",
+        "hovaten": "Đỗ Văn Thịnh",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0023",
+        "hovaten": "Lê Trung Thịnh",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0024",
+        "hovaten": "Dương Văn Nam",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0025",
+        "hovaten": "Đặng Minh Hào",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0026",
+        "hovaten": "Lý Hữu Phát",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0027",
+        "hovaten": "Đặng Thị Anh",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22C0028",
+        "hovaten": "Đỗ Phương Nhi",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22C0029",
+        "hovaten": "Trần Đình Dũng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22C0030",
+        "hovaten": "Hoàng Hữu Tuấn",
+        "gioitinh": "Nam"
+      }
+    ]
+  },
+  {
+    "title": "CCQ2411D",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22D0031",
+        "hovaten": "Lê Công Kiên",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0032",
+        "hovaten": "Phan Bích Ngân",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22D0033",
+        "hovaten": "Lý Minh Dũng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0034",
+        "hovaten": "Lê Đình Hào",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0035",
+        "hovaten": "Nguyễn Tiến Đạt",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0036",
+        "hovaten": "Phan Công Thịnh",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0037",
+        "hovaten": "Phan Đức Thịnh",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0038",
+        "hovaten": "Lý Quốc Hào",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0039",
+        "hovaten": "Lê Văn Kiên",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22D0040",
+        "hovaten": "Ngô Đức Tùng",
+        "gioitinh": "Nam"
+      }
+    ]
+  },
+  {
+    "title": "CCQ2411E",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22E0041",
+        "hovaten": "Phạm Minh Đạt",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22E0042",
+        "hovaten": "Phạm Mỹ Hương",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22E0043",
+        "hovaten": "Phan Thanh Ngân",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22E0044",
+        "hovaten": "Phạm Thu Trang",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22E0045",
+        "hovaten": "Dương Đình Kiên",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22E0046",
+        "hovaten": "Vũ Minh Dũng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22E0047",
+        "hovaten": "Hoàng Kim Ngân",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22E0048",
+        "hovaten": "Bùi Hữu Kiên",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22E0049",
+        "hovaten": "Vũ Minh Thịnh",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22E0050",
+        "hovaten": "Đỗ Phương Trang",
+        "gioitinh": "Nữ"
+      }
+    ]
+  },
+  {
+    "title": "CCQ2411F",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22F0051",
+        "hovaten": "Hồ Tiến Đạt",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22F0052",
+        "hovaten": "Đặng Thanh Hà",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22F0053",
+        "hovaten": "Phạm Quốc Hùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22F0054",
+        "hovaten": "Phan Mỹ Thi",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22F0055",
+        "hovaten": "Hồ Hữu Tùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22F0056",
+        "hovaten": "Hoàng Thu Quỳnh",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22F0057",
+        "hovaten": "Phạm Thu Thi",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22F0058",
+        "hovaten": "Hồ Đức Hùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22F0059",
+        "hovaten": "Bùi Trung Khoa",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22F0060",
+        "hovaten": "Bùi Minh Nam",
+        "gioitinh": "Nam"
+      }
+    ]
+  },
+  {
+    "title": "CCQ2411G",
+    "tongso": 10,
+    "data": [
+      {
+        "maso": "22G0061",
+        "hovaten": "Lê Hồng Ngân",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22G0062",
+        "hovaten": "Phạm Minh Bình",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22G0063",
+        "hovaten": "Vũ Bích Yến",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22G0064",
+        "hovaten": "Đỗ Lan Ngân",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22G0065",
+        "hovaten": "Phạm Văn Dũng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22G0066",
+        "hovaten": "Trần Tiến Hùng",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22G0067",
+        "hovaten": "Vũ Minh Phát",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22G0068",
+        "hovaten": "Đỗ Lan Trang",
+        "gioitinh": "Nữ"
+      },
+      {
+        "maso": "22G0069",
+        "hovaten": "Dương Đình Đạt",
+        "gioitinh": "Nam"
+      },
+      {
+        "maso": "22G0070",
+        "hovaten": "Vũ Hữu Khải",
+        "gioitinh": "Nam"
+      }
+    ]
+  }
+]
